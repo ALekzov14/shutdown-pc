@@ -1,0 +1,3 @@
+C:\Users\Konstantin\source\repos\shutdown-Pc\shutdown-Pc\x64\Debug\shutdown-Pc.vcxproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\shutdown-Pc\shutdown-Pc\x64\Debug\shutdownPc.MyForm.resources
+C:\Users\Konstantin\source\repos\shutdown-Pc\shutdown-Pc\x64\Debug\shutdown-Pc.vcxproj.GenerateResource.cache
